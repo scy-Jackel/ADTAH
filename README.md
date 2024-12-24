@@ -1,3 +1,5 @@
+![image](result.png)
+
 By running main.m, the specific enhancement results of neuron fiber structure and the localization and filling results of neuron cell body can be obtained.
 
 
